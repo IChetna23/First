@@ -9,6 +9,7 @@ public class Server
     private ServerSocket server = null;
     private DataInputStream in = null;
     private DataInputStreamm in = null;
+    private DataInputStreammm in = null;
 
     // constructor with port
     public Server(int port)
